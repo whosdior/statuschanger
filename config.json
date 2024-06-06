@@ -1,0 +1,13 @@
+{
+    "token": "YOUR_DISCORD_TOKEN_HERE",
+    "clear_enabled": true,
+    "clear_interval": 10,
+    "speed_rotator": 5,
+    "status_sequence": ["online", "idle", "dnd", "invisible"],
+    "status_messages": [
+      "Status message 1",
+      "Status message 2",
+      "Status message 3"
+    ]
+  }
+  
