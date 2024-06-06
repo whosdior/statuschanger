@@ -1,8 +1,5 @@
-Certainly! Below is a complete README with the appropriate repository commands included:
 
----
-
-# Discord Status Rotator README
+# Discord Status Rotator
 
 ## Introduction
 The Discord Status Rotator is a Python script designed to automatically rotate and update your custom status message on Discord. It reads status messages from a file, updates your Discord status at regular intervals, and optionally clears the console periodically. This script uses the Discord API for updating statuses and requires a valid Discord token.
